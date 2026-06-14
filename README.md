@@ -80,8 +80,8 @@ I'm a **Full Stack Developer** building production-grade **AI Products**, **SaaS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&border_color=0f766e&icon_color=0d9488&title_color=5eead4&text_color=c8d3d5&hide_border=false&rank_icon=github" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d1117&border=0f766e&ring=0d9488&fire=5eead4&currStreakLabel=5eead4" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=dm-thedeveloper&show_icons=true&theme=dark&bg_color=0d1117&border_color=0f766e&icon_color=0d9488&title_color=5eead4&text_color=c8d3d5&hide_border=false&rank_icon=github" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dm-thedeveloper&theme=dark&background=0d1117&border=0f766e&ring=0d9488&fire=5eead4&currStreakLabel=5eead4" height="160" />
 
 </div>
 
